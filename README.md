@@ -16,6 +16,7 @@
 ## Usage 
     Use inquirer from your command line to answer questions about your project.
 ![Walkthrough GIF](https://user-images.githubusercontent.com/92825363/152691670-9158db12-a60d-4384-9ef9-9777ba4f84bb.gif)
+Vimeo Link: https://vimeo.com/675029803
 ## License 
     This project is license under MIT
 ## Contributing 
